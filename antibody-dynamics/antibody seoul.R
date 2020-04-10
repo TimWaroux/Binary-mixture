@@ -24,7 +24,7 @@ model = stan_model('antibody.stan')
 fit = sampling(model, list(N = 245, y = num), iter = 9000, chains = 4,
                control = list(adapt_delta = 0.99999, max_treedepth = 999)) # maybe change the parameters
 
-# stuff
+# this prints the estimated values of the parameters by Stan
 
 fit_summary <- summary(fit)
 summ = fit_summary$summary
