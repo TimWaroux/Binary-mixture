@@ -1,0 +1,1 @@
+This folder contains all .R and .stan files that are referenced to in the section about the number of components
