@@ -1,1 +1,1 @@
-This folder contains all R and stan files that are used for modelling antibody dynamics and hence serves as a reference to the identically named chapter in our paper
+This folder contains all R and stan files that are used for modelling antibody dynamics and hence serves as a reference to the identically named chapter in our paper.
