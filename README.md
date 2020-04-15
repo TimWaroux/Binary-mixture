@@ -7,3 +7,4 @@ Each of the folders correspond to chapters in our paper, where we refer to .R an
 * **Tim Waroux** - [GitHub](https://github.com/TimWaroux)
 * **David Vichansky** - [GitHub](https://github.com/vichansky)
 * **Olov Schavemaker** - [GitHub](https://github.com/lawc7)
+* **Patricia de Bruin** - [GitHub](https://github.com/PatriciadeBruin)
